@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aamidmohsin
-- 👀 I’m interested in Data science & Analytics, Cloud Services, Machine Learning, AI and Software development
 - 🌱 I’m currently learning Computer Science, Statistics and Business @ University of Toronto
+- 👀 I’m interested in Data Science & Analytics, Cloud Computing, Machine Learning, Artificial Intelligence and Software development
 - 📫 How to reach me: aamidmohsin@gmail.com
 
 <!---
